@@ -3,7 +3,7 @@
 - 👀 I'm interested in building performant alternatives to currently sucky widespread solutions
 - 🌱 I'm currently learning C and working on an alternative to MySQL Workbench
 - 💞️ I'm looking to collaborate on developer tooling projects that make developers' lives easier
-- 📫 How to reach me: yousuckatcoding@proton.me
+- 📫 How to reach me: yousuckatcoding@proton.me or [Linkedin](https://www.linkedin.com/in/akashsivanandan/)
 - 😄 Pronouns: All pronouns welcome
 - ⚡ Fun fact: The first computer bug was an actual bug - a moth found trapped in a Harvard Mark II computer in 1947, which gave rise to the term "debugging"
 
